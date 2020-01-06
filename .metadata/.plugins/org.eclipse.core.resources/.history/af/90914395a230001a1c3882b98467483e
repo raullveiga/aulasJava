@@ -1,0 +1,10 @@
+package aulasJava.comissao;
+
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    }
+}
